@@ -12,6 +12,7 @@ import json,sys,time,random
 
 
 
+
 path=sys.path[0]+r'/1.txt'
 path2=sys.path[0]+r'/time.log'
 num1 = 0
